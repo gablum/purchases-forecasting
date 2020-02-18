@@ -4,4 +4,4 @@ In this notebook, a simple deep learning-based predictive model is created, whic
 
 1. The necessary packages are loaded, and the dataset is imported, analyzed and preprocessed.
 2. The predictive model is generated and trained.
-3. The model is evaluated using the AUC.
+3. The predictive model is evaluated.
